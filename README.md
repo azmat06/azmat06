@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 👋 Hi, I’m Azmat Ullah
+ 
+    I'm a Data Analyst with 3+ years of experience working with ETL workflows, data models
+    that handle millions of records of data to deliver meaningful and actionable insights. I am seeking an opportunity 
+    to leverage my diverse skills at your organization using statistical techniques.
+    
+🌱 I’m currently learning R.
+
+📫 How to reach me LinkedIn : https://www.linkedin.com/in/azmat-ullah/
